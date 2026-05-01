@@ -209,4 +209,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Made with ❤️ for India — Samajhna aasaan, jeena aasaan.*
+*Made with ❤️ for India *
